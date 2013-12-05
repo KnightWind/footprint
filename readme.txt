@@ -1,1 +1,1 @@
-begain footprint
+begin footprint
